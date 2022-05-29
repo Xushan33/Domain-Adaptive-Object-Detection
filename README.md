@@ -42,6 +42,8 @@ A paper list for domain adaptive object detection.
 ## Paper Related
 - Faster R-CNN：Towards Real-Time Object Detection with Region Proposal Networks [[NIPS2015]](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf)
 - Hierarchical Context Embedding for Region-based Object Detection [[ECCV2020]](https://arxiv.org/pdf/2008.01338.pdf)
+- Few-Shot Object Detection with Attention-RPN and Multi-Relation Detector [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Few-Shot_Object_Detection_With_Attention-RPN_and_Multi-Relation_Detector_CVPR_2020_paper.pdf)
+- SiamRPN++: Evolution of Siamese Visual Tracking with Very Deep Networks [[CVPR2019]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_SiamRPN_Evolution_of_Siamese_Visual_Tracking_With_Very_Deep_Networks_CVPR_2019_paper.pdf)
 
 ## Less Relevant
 - SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection [[arxiv2018]](https://arxiv.org/abs/1812.00929)
